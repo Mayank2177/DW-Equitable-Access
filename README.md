@@ -4,7 +4,7 @@ This project aims to analyze data from the 78th Round of the Multiple Indicator 
 # NOTE: you must set $API_KEY below using information retrieved from your IBM Cloud account 
 (https://au-syd.dai.cloud.ibm.com/docs/content/wsj/analyze-data/ml-authentication.html?context=cpdaas)
 
-export API_KEY=<your API key>
+    export API_KEY=<your API key>
 
 
 export IAM_TOKEN=$(curl --insecure -X POST --location "https://iam.cloud.ibm.com/identity/token" \
