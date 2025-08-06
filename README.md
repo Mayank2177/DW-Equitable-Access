@@ -1,5 +1,16 @@
-# DW-Equitable-Access
+# IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
+Welcome to this repository, a comprehensive record of the capstone project developed as part of the IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies. This prestigious internship is a joint initiative by the Edunet Foundation, AICTE, and IBM SkillsBuild.
+
+Throughout the program, participants engage in practical, hands-on learning with cutting-edge tools and platforms, including IBM SkillsBuild and IBM Cloud. The primary objective is to empower interns to tackle real-world challenges, thereby enhancing their technical proficiency, confidence, and overall employability in the rapidly evolving field of emerging technologies.
+
 This project aims to analyze data from the 78th Round of the Multiple Indicator Survey (MIS) to assess the percentage of the population with access to improved drinking water sources. The ultimate goal is to help ensure equitable access to clean water and contribute to India's progress on SDG targets.
+
+## Improved Source of Drinking Water
+### Problem Statement: 
+Access to safe and improved sources of drinking water remains a critical issue in India, especially in rural and underdeveloped regions. Despite ongoing efforts under the Sustainable Development Goals (SDGs), inequalities persist in water accessibility across states and socio-economic groups. This project aims to analyze data from the 78th Round of the Multiple Indicator Survey (MIS) to assess the percentage of the population with access to improved drinking water sources. It will also explore related indicators such as use of clean cooking fuel and migration trends. By identifying patterns and disparities, the study will generate actionable insights to support evidence-based policymaking. The ultimate goal is to help ensure equitable access to clean water and contribute to India's progress on SDG targets.
+
+# Solution:
+
 
 ### NOTE: you must set $API_KEY below using information retrieved from your IBM Cloud account 
 (https://au-syd.dai.cloud.ibm.com/docs/content/wsj/analyze-data/ml-authentication.html?context=cpdaas)
